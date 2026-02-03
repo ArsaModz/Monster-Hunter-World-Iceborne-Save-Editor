@@ -1,6 +1,6 @@
 # Monster Hunter World: Iceborne Save Editor (PS4)
 
-A specialized graphical save editor for *Monster Hunter World: Iceborne* on PS4. Built with Python and PyQt6, this tool offers a comprehensive suite for managing character progression, currency, and entire item boxes across multiple save slots.
+A save editor for *Monster Hunter World: Iceborne* on PS4. Built with Python and PyQt6, this tool offers a comprehensive suite for managing character progression, currency, and entire item boxes across multiple save slots.
 
 ## 🚀 Key Features
 
