@@ -43,4 +43,4 @@ The application provides a clean, native-feeling interface optimized for data en
 
 ---
 
-*Created by ArsaModz* :)
+*Created by ArsaModz*
