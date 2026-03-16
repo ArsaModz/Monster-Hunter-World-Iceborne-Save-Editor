@@ -63,7 +63,7 @@ Seamlessly convert save files between platforms without losing data:
 1. **Open:** Select your PS4 (`memory.dat`) or PC (`SAVEDATA1000`) save file.
 2. **Select Slot:** Choose which of your three characters to edit.
 3. **Edit:** Navigate the tabs to modify stats, inventory, equipment, loadout, or use the utility actions.
-4. **Save:** Click **Save Changes** to write back to the file. PS4 saves are re-encrypted automatically if they were originally encrypted on disk.
+4. **Save:** Click **Save Changes** to write back to the file. PS4 saves are re-encrypted automatically if they were originally encrypted.
 
 ---
 
