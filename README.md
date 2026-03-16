@@ -21,7 +21,7 @@ The application provides a clean, native-feeling interface optimized for data en
 * **Dynamic Loading:** Tables populate in real-time based on the selected save slot.
 * **Safety First:** Automatically generates a `.bak` backup of your save file before any write operation.
 ## 📝 How to Use
-1. **Open:** Select your PS4 or PC save file (`SAVEDATA1000` for PS4, `.dat` for PC).
+1. **Open:** Select your PS4 or PC save file (`.dat` for PS4, `SAVEDATA1000` for PC).
 2. **Select Slot:** Choose which of your three characters you wish to edit.
 3. **Search & Edit:** Use the search dialogs to swap items or simply adjust the quantities in the tables.
 4. **Save:** Apply changes to commit them to the file. PS4 saves will be re-encrypted automatically if they were originally encrypted on disk.
