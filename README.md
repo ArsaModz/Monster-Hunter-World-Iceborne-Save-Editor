@@ -69,9 +69,9 @@ Seamlessly convert save files between platforms without losing data:
 
 ## 🙏 Credits
 This project wouldn't have been possible without the research and work of the following people:
-* **LEGENDFF** — Reference implementation for decrypting and encrypting PC save files.
-* **Marcus101RR** — Cheat table that helped map out the save file structure.
-* **Ahmed** — Cracked the second-layer encryption used in the save format.
+* **[LEGENDFF](https://github.com/LEGENDFF/)** — Reference implementation for decrypting and encrypting PC save files.
+* **[Marcus101RR](https://www.nexusmods.com/monsterhunterworld/users/58495681)** — Cheat table that helped map out the save file structure.
+* **[Ahmed](https://github.com/alfizari)** — Cracked the second-layer encryption used in the save format.
 
 ---
 
