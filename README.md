@@ -8,6 +8,7 @@ The editor automatically detects and supports up to **three independent save slo
 * **Platform Detection:** Automatically identifies whether the save file is from PS4 or PC and handles decryption/encryption accordingly.
 * **Slot Selection:** Easily switch between different characters in the same save file.
 * **Safety First:** Automatically generates a `.bak` backup of your save file before any write operation.
+* **Quick Access:** Open your PC save folder or MHW game folder directly from the editor. Automatically detects your Steam account — prompts you to choose if multiple accounts are found.
 
 ### 📈 General Stats (Tab 1)
 Edit your core hunter and palico profile:
@@ -16,7 +17,7 @@ Edit your core hunter and palico profile:
 * **Economy:** Set Zenny, Research Points, and Steamworks Fuel to any amount.
 * **Decoration Unlock:** Toggle the Set Decorations unlock flag.
 * **Steam ID:** View, copy, and paste your Steam ID directly (PC saves only).
-* **Max Buttons:** One-click max buttons for all rank and currency fields.
+* **Max Buttons:** One-click max buttons for all rank and currency fields, including Max and Reset buttons for Playtime.
 
 ### 🎒 Inventory Editor (Tab 2)
 Manage every inventory container with a searchable item database:
@@ -26,13 +27,18 @@ Manage every inventory container with a searchable item database:
 * **Bulk Fill:** Instantly populate entire boxes with all Consumables, Ammo, Materials, or Decorations at max quantity.
 
 ### ⚔️ Equipment Editor (Tab 3)
-View and manage your full equipment box (2,500 slots):
+View and fully manage your equipment box (2,500 slots):
 * Browse all stored weapons, armor, charms, kinsects, tools, decorations, augments, advanced augments, awakened abilities, bowgun mods, and pendants.
-* Search by name from the embedded CSV database for precise item selection.
+* **Search & Filter:** Filter by category (Weapon, Armor, Charm, Kinsect, Tool) and search by name. Toggle empty slot visibility.
+* **God Mode:** Set Level and Resistance Points to maximum on a selected Armor or Charm slot, or apply to all Charms at once.
+* **Max Advanced Augments:** Max all 7 advanced augment fields on a selected slot, or on every Armor, Weapon, and Charm at once.
+* **Awakened Abilities:** Dedicated panel for Safi'jiiva and Kjárr weapons, with the correct ability list automatically filtered per weapon family.
+* **Bulk Add:** Fill empty slots with all highest-rarity Armor, Weapons, Charms, or Kinsects in one click. Safi'jiiva and Kjárr weapons have their correct defaults applied automatically.
 
 ### 🐱 Palico Equipment (Tab 4)
 Dedicated editor for your Palico's gear:
-* Manage Palico weapons, armor, and full equipment box entries (1,250 slots).
+* Manage Palico weapons and armor across a full equipment box (1,250 slots).
+* **Bulk Add:** Fill empty slots with all Palico Armor or all Palico Weapons in one click.
 
 ### 🔧 Miscellaneous (Tab 5)
 One-click utility actions for your current slot:
@@ -41,10 +47,10 @@ One-click utility actions for your current slot:
 * **Upgrade All Mantles:** Apply all Mantle+ upgrades instantly.
 * **Max Palico Gadget Proficiencies:** Set all gadget proficiency values to 99,999,999.
 
-### 📋 Slot Manager (Tab 6)
+### 📋 Copy Slot (Tab 6)
 Duplicate an entire character slot:
 * Select any source and destination slot from a dropdown.
-* Preview both slots before committing.
+* Preview both slots (Hunter Name, Gender, HR, MR, Zenny, Research Points, Playtime) before committing.
 * Full in-memory copy with PS4 extra-block preservation — no data corruption.
 
 ### 🎽 Current Loadout (Tab 7)
@@ -52,6 +58,7 @@ View and edit what gear your hunter and palico currently have equipped:
 * **Hunter Slots:** Weapon, Head, Chest, Arms, Waist, Legs, Charm, and Kinsect — populated live from your equipment box.
 * **Tool Slots:** Tool 1 and Tool 2 — select any unlocked mantle or booster.
 * **Palico Slots:** Palico Weapon, Head, Chest, and Gadget.
+* All dropdowns are filterable by typing.
 
 ### 🔄 Converter (Tab 8)
 Seamlessly convert save files between platforms without losing data:
