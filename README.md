@@ -48,10 +48,12 @@ One-click utility actions for your current slot:
 * **Max Palico Gadget Proficiencies:** Set all gadget proficiency values to 99,999,999.
 
 ### 📋 Slot Manager (Tab 6)
-Duplicate an entire character slot:
-* Select any source and destination slot from a dropdown.
-* Preview both slots (Hunter Name, Gender, HR, MR, Zenny, Research Points, Playtime) before committing.
-* Full in-memory copy with PS4 extra-block preservation — no data corruption.
+A full suite of tools for managing your character slots:
+* **Copy Slot:** Duplicate any slot to another with a live preview of both before committing (shows Hunter Name, Gender, HR, MR, Zenny, Research Points, and Playtime).
+* **Export Slot:** Save any character slot to a `.mhwslot` file — automatically named after your hunter for easy identification.
+* **Import Slot:** Load a `.mhwslot` file into any destination slot.
+* **Cross-Platform:** Exported `.mhwslot` files are platform-agnostic — a slot exported from a PS4 save can be imported into a PC save and vice versa, with a confirmation prompt before writing.
+* PS4 extra-block is preserved on all copy, export, and import operations to prevent data corruption.
 
 ### 🎽 Current Loadout (Tab 7)
 View and edit what gear your hunter and palico currently have equipped:
