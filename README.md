@@ -47,7 +47,7 @@ One-click utility actions for your current slot:
 * **Upgrade All Mantles:** Apply all Mantle+ upgrades instantly.
 * **Max Palico Gadget Proficiencies:** Set all gadget proficiency values to 99,999,999.
 
-### 📋 Copy Slot (Tab 6)
+### 📋 Slot Manager (Tab 6)
 Duplicate an entire character slot:
 * Select any source and destination slot from a dropdown.
 * Preview both slots (Hunter Name, Gender, HR, MR, Zenny, Research Points, Playtime) before committing.
